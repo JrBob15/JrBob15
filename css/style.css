@@ -10,6 +10,16 @@ main {
     
 }
 
+header {
+    padding-top: 16px;
+    margin-top: 25px;
+}
+
+.top_panel {
+    display: flex;
+    flex-direction: row;
+}
+
 .top_logo {
     width: 140px;
 }
