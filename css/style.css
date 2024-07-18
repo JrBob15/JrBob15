@@ -1,0 +1,25 @@
+body {
+    background: #edf0f3;
+}
+
+main {
+    background: white;
+    display: flex;
+    width: 1260px;
+    margin: auto;
+    
+}
+
+.top_logo {
+    width: 140px;
+}
+
+.header_search {
+    width: 725px;
+    height: 28px;
+    padding: 1px 1px 1px 10px;
+    border: #ccc solid 1px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-right: none;
+}
